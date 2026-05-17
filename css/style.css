@@ -79,6 +79,13 @@ img{
 	margin-bottom: 0.5rem;
 }
 
+.navigation{
+	max-width: 736px;
+	padding: 0 1.5rem;
+	margin: 1rem auto 2rem;
+	text-align: right;
+}
+
 .main{
 	max-width: 736px;
 	padding: 0 1.5rem;
